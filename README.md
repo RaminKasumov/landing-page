@@ -1,1 +1,1 @@
-# Odin Recipes
+# Landing Page
