@@ -2,15 +2,15 @@
 
 Welcome to my landing page project! This website serves as a beginner-friendly introduction to several popular programming languages, including **PHP**, **Java**, **Python**, and **C++**.
 
-## 🚀 Features
+## Features
 
-- ✨ Clean and simple landing page layout
-- 📚 Short descriptions of each language
-- 💡 Highlights key features and typical use cases
-- 📱 Responsive design for mobile and desktop
-- 🎨 Visually engaging with user-friendly UI
+- Clean and simple landing page layout
+- Short descriptions of each language
+- Highlights key features and typical use cases
+- Responsive design for mobile and desktop
+- Visually engaging with user-friendly UI
 
-## 🧠 Languages Covered
+## Languages Covered
 
 | Language | Description |
 |----------|-------------|
