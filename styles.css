@@ -111,11 +111,6 @@ main {
     padding: 20px;
 }
 
-svg {
-    height: auto;
-    max-width: 150px;
-}
-
 .quote {
     width: 100%;
     padding: 100px;
